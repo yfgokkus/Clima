@@ -1,6 +1,6 @@
 # clima
 
-This is one of my class projects. The design and the idea do not belong to me.
+This is one of my class projects. The design and the idea do not belong to me. Used Openweather API.
 
 ## Getting Started
 ![WhatsApp Görsel 2024-02-12 saat 16 32 36_75b44f9d](https://github.com/UrizenN/Clima/assets/94642336/b4284401-008d-4e91-86b5-2c9be1725e09)
